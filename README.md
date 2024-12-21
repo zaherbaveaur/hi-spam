@@ -1,1 +1,1 @@
-clones the repository [hi]([url](https://github.com/zaherbaveaur/hi)) 108 times, costing them **24 GB** of space and installs git
+installs git and clones [this](https://github.com/zaherbaveaur/hi) repo 108 times, costing the victim **24 GB** of space
